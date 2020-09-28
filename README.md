@@ -13,16 +13,16 @@ Expectaion is if the condition is true the it should not call the Filter3 from t
 Example:
 
 version of spring
+https://github.com/hakuna16/Spring-Boot-Sample-Project/blob/master/docs/spring%20version%20-%203.4.png
 
 
 Logs if the header is `test`
+https://github.com/hakuna16/Spring-Boot-Sample-Project/blob/master/docs/spring-v-2.3.4-correct-calue.png
 
+Logs if the header is `test123`
+https://github.com/hakuna16/Spring-Boot-Sample-Project/blob/master/docs/spring-v-2.3.4-incorrect-value.png
+
+
+version of spring - 2.2.10
 Logs if the header is `test`
-
-
-version of spring
-<image>
-
-Logs if the header is `test`
-
-Logs if the header is `test`
+https://github.com/hakuna16/Spring-Boot-Sample-Project/blob/master/docs/with%20spring%202.2.10.png
